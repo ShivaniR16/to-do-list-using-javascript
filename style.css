@@ -1,0 +1,20 @@
+input{
+    width: 200px;
+    height: 20px;
+}
+button{
+    transform:translate(20px);
+    width: 120px;
+    height: 25px;
+    border-radius: 25px;
+    background-color: blue;
+    color: white;
+    border-color: blue;
+}
+ul{
+    list-style-type:none;
+}
+span{
+    border: 1px solid black;
+    
+}
